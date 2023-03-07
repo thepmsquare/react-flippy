@@ -85,7 +85,7 @@ To build project, clone repository and run yarn && yarn build
 
 ### Changelog
 
-#### 1.2.0
+#### 1.2.0 - 1.2.1
 
 - React updated to 18.2.0
 
